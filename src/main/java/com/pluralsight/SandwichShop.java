@@ -8,7 +8,6 @@ public class SandwichShop {
         double regular = 5.45;
         double large = 8.95;
         double total = 0.0;
-        double price;
 
         System.out.println("What size sandwhich would you like? (Regular/Large) ");
         String size = scanner.nextLine();
